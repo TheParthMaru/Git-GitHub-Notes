@@ -12,3 +12,16 @@
 - `start .` -> Will open the file explorer in the current working directory.
 - `start FolderName` -> Open a particular folder in file explorer.
 - `clear` -> Clears terminal.
+
+## Creating files and folders
+
+- `touch filename` -> Create a file.
+- `touch index.html style.css app.js` -> Create multiple files.
+- `mkdir foldername` -> Make directory
+- `mkdir folder1 folder2` -> Make multiple directories.
+
+## Delete files and folders
+
+- `rm filename` -> Remove/Delete file permanently.
+- `rm file1 file2` -> Remove multiple files.
+- `rm -rf foldername` -> Removes folders.
